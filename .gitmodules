@@ -1,0 +1,3 @@
+[submodule "DeepGBM"]
+	path = DeepGBM
+	url = https://github.com/motefly/DeepGBM
