@@ -112,3 +112,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Dataset large files
+datasets/kaggle/*.csv
+
+# VSCode
+.vscode
