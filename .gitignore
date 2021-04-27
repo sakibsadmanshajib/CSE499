@@ -118,3 +118,8 @@ datasets/kaggle/*.csv
 
 # VSCode
 .vscode
+
+# LaTeX
+*/*.aux
+*/*.out
+*/*.synctex(busy)
