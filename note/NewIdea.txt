@@ -1,0 +1,8 @@
+knowledge distillation
+sparse data
+
+tabular data, (nlp & cv), unsupervised pre-training. probably use GAN. make a vector representation for a feature.
+sequence based model.
+TabNet
+122 features to vector summarizing this information, then create a model to convert vector to data.
+use vector to run classifier.
