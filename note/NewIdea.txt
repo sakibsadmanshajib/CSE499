@@ -6,3 +6,4 @@ sequence based model.
 TabNet
 122 features to vector summarizing this information, then create a model to convert vector to data.
 use vector to run classifier.
+- autoencoder
